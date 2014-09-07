@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"g",
+				"get()	route.js"
+			],
+			[
+				"doctype",
+				"doctype	HTML - HTML foundation"
+			],
+			[
+				"use",
+				"use 	Language Construct"
+			],
+			[
+				"json_e",
+				"json_encode()	json Function"
+			],
+			[
+				"endfo",
+				"endforeach	Language Construct"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"array_push",
+				"array_push()	standard Function"
+			],
+			[
+				"re",
+				"returned_data"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"func",
+				"function 	Language Construct"
+			],
+			[
+				"ini_set",
+				"ini_set()	standard Function"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"spl",
+				"spl_autoload_register"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"fun",
+				"function 	Language Construct"
+			],
+			[
+				"c",
+				"connection.php"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"produ",
+				"produto"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"butt",
+				"button	<button>"
+			],
+			[
+				"inp",
+				"input	input - text"
+			],
+			[
+				"ng-i",
+				"ng-include	AngularJS"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"inde",
+				"indexof"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"pro",
+				"produtos"
+			],
+			[
+				"$c",
+				"$scope	AngularJS"
+			],
+			[
+				"co",
+				"controller	AngularJS"
+			],
+			[
+				"$contr",
+				"$controllerProvider	AngularJS"
+			],
+			[
+				"$con",
+				"$controllerProvider	AngularJS"
+			],
+			[
+				"con",
+				"config	AngularJS"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"$uo",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS(DI)"
+			],
+			[
+				"$scope",
+				"$scope	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-view	AngularJS"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"sco",
+				"$scope	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"d",
+				"dist/"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 174.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 687.0
+	},
+	"console":
+	{
+		"height": 54.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/sisge.com.ca"
+	],
+	"file_history":
+	[
+		"/var/www/sisge.com.ca/app/routes.php",
+		"/var/www/sisge.com.ca/app/models/User.php",
+		"/var/www/sisge.com.ca/app/config/app.php",
+		"/var/www/sisge.com.ca/public/.htaccess",
+		"/var/www/sisge.com.ca/vendor/autoload.php",
+		"/var/www/sisge.com.ca/composer.json",
+		"/var/www/html/curso-angular/autoload.php",
+		"/var/www/html/curso-angular/composer.json",
+		"/var/www/html/curso-angular/public/js/angular/config.js",
+		"/var/www/html/curso-angular/config.php",
+		"/var/www/html/curso-angular/index.php",
+		"/var/www/html/curso-angular/app/routes/produtos.php",
+		"/var/www/html/curso-angular/vendor/autoload.php",
+		"/var/www/html/curso-angular/public/js/angular/angular-route.min.js.map",
+		"/var/www/html/curso-angular/public/js/angular/angular.min.js.map",
+		"/var/www/html/curso-angular/app/models/produtos.php",
+		"/home/caio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/html/curso-angular/app/classes/toJason.php",
+		"/var/www/html/curso-angular/app/models/appModel.php",
+		"/var/www/html/curso-angular/connection.php",
+		"/var/www/html/curso-angular/app/index.php",
+		"/var/www/html/curso-angular/app/.htacccess",
+		"/var/www/html/curso-angular/public/js/angular/controllers.js",
+		"/var/www/html/curso-angular/index.html",
+		"/var/www/html/curso-angular/app/routes/produtos.php-tmp",
+		"/var/www/html/curso-angular/app/views/home.html",
+		"/var/www/html/curso-angular/public/css/sytle.css",
+		"/var/www/html/curso-angular/app/views/contato.html",
+		"/var/www/html/curso-angular/app/views/header.html",
+		"/var/www/html/curso-angular/app/views/inicial.html",
+		"/var/www/html/curso-angular/app/views/produto.html",
+		"/var/www/html/curso-angular/public/js/angular/angular.js",
+		"/var/www/html/curso-angular/public/js/angular/route.js",
+		"/var/www/html/sisge.com.br/public/index.html",
+		"/var/www/html/curso-angular/public/js/jquery/jquery.min.js",
+		"/var/www/html/sisge.com.br/public/css/style.css",
+		"/var/www/html/sisge.com.br/public/js/angular/controllers/controllers.js",
+		"/var/www/html/sisge.com.br/app/views/home.html",
+		"/var/www/html/sisge.com.br/public/js/angular/config.js",
+		"/var/www/html/sisge.com.br/composer.json",
+		"/var/www/html/sisge.com.br/public/js/angular/route.js",
+		"/var/www/html/sisge.com.br/public/js/angular/angular.min.js",
+		"/var/www/html/sisge.com.br/composer.lock",
+		"/var/www/html/sisge.com.br/public/js/jquery/jquery.min.js",
+		"/var/www/html/sisge.com.br/public/js/angular/angular.js",
+		"/var/www/html/sisge.com.br/app/.htaccess",
+		"/var/www/html/sisge.com.br/app/index.php",
+		"/var/www/html/sisge.com.br/public/.htaccess",
+		"/var/www/html/sisge.com.br/vendor/.htacess",
+		"/var/www/html/sisge.com.br/app/.htacess",
+		"/var/www/html/sisge.com.br/connection.php",
+		"/var/www/html/sisge.com.br/config.php",
+		"/home/caio/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/caio/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/caio/Projetos/fishcontrol/app/views/home.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/servicos/servicospage.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/content/contentservicos.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/layouts/headerhome.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/layouts/footer.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/content/contenthome.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/content/contentclients.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/clients/clientspage.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/layouts/master.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/layouts/header.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/views/layouts/homelayout.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/routes.php",
+		"/home/caio/Projetos/fishcontrol/app/controllers/HomeController.php",
+		"/home/caio/Projetos/fishcontrol/app/views/layouts/header_home.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/config/local/database.php",
+		"/home/caio/Projetos/fishcontrol/app/views/clients.blade.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Vara.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Racao.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Peixe.php",
+		"/home/caio/Projetos/fishcontrol/app/models/ClienteServico.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Cliente.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Admin.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Anzol.php",
+		"/home/caio/Projetos/fishcontrol/app/models/Servico.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://localhost/curso-angular/",
+			"span",
+			">\n",
+			"data",
+			"busca_produtos",
+			"tr",
+			"produto",
+			">\n",
+			"lorem3",
+			"route('Clients')",
+			"HTML::to"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "sisge.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
